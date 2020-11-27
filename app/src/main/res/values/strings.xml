@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TabLayoutActivity</string>
+    <string name="nama_saya">Fragment Home</string>
+    <string name="tab_text2">Fragment Profile</string>
+    <string name="tab_text3">Fragment Setting</string>
+    <string name="content_tab_home">Welcome Home</string>
+    <string name="content_tab_profile">Change your profile</string>
+    <string name="content_tab_text">This is tab</string>
+</resources>
